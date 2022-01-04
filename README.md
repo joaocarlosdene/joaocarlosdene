@@ -1,6 +1,6 @@
-### Hello I'm Joao Carlos Dene✋
+## Hello I'm Joao Carlos Dene✋
 
-## Welcome to my GitHub 
+### Welcome to my GitHub 
 
 [![LinkDIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaocarlosdene/)
 
